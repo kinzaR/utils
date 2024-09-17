@@ -45,7 +45,7 @@ This script requires the following R packages: `hipathia`, `igraph`, `dplyr`, `o
 
 #### License
 
-This repository is licensed under a Creative Commons license. You are free to use, share, and adapt the content for any purpose, provided you give appropriate credit.
+This repository is licensed under a Creative Commons license. You are free to use, share, and adapt the content for any purpose, provided you give appropriate feedback :).
 
 #### Author
 
