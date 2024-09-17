@@ -4,7 +4,7 @@ This repository contains scripts and code snippets that serve as utilities for v
 
 ## Current Content
 
-### 1. Parse Hipathia Pathways to CSV for Neo4J
+### 1. Parse Hipathia Pathways to CSV for Neo4J: hipath2CSV Folder
 
 This script extracts pathway information using the [Hipathia package](https://www.bioconductor.org/packages/release/bioc/html/hipathia.html). Hipathia for a specified species and pathway ID. It generates two output files:
 1. A CSV file containing node attributes.
