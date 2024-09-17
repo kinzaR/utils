@@ -1,0 +1,127 @@
+name,x,y,shape,size,size2,label.cex,label,color,tooltip,nodeX,nodeY,genesList
+N-hsa04210-5,1283,422,rectangle,15,5,0.62,ATM,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:472>472</a> (ATM),1283,422,472
+N-hsa04210-6,1283,375,rectangle,15,5,0.62,TP53,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:7157>7157</a> (TP53),1283,375,7157
+N-hsa04210-9,665,337,rectangle,15,5,0.62,BCL2,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:596>596</a> (BCL2),665,337,596
+N-hsa04210-12,1102,583,rectangle,15,5,0.62,CASP9,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:842>842</a> (CASP9),1102,583,842
+N-hsa04210-13,987,619,rectangle,15,5,0.62,CASP7,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:840>840</a> (CASP7),987,619,840
+N-hsa04210-14,987,642,rectangle,15,5,0.62,CASP3,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:836>836</a> (CASP3),987,642,836
+N-hsa04210-15,596,232,rectangle,15,5,0.62,BAD,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:572>572</a> (BAD),596,232,572
+N-hsa04210-16,832,68,rectangle,15,5,0.62,NFKB1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:4790>4790</a> (NFKB1)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5970>5970</a> (RELA),832,68,4790;5970
+N-hsa04210-17,891,582,rectangle,15,5,0.62,BIRC2*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:329>329</a> (BIRC2)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:330>330</a> (BIRC3)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:331>331</a> (XIAP)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:332>332</a> (BIRC5),891,582,329;330;331;332
+N-hsa04210-18,987,675,rectangle,15,5,0.62,CASP6,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:839>839</a> (CASP6),987,675,839
+N-hsa04210-19,832,100,rectangle,15,5,0.62,NFKBIA,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:4792>4792</a> (NFKBIA),832,100,4792
+N-hsa04210-23,784,643,rectangle,15,5,0.62,CASP8,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:841>841</a> (CASP8),784,643,841
+N-hsa04210-25,815,797,rectangle,15,5,0.62,CAPN1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:823>823</a> (CAPN1)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:824>824</a> (CAPN2),815,797,823;824
+N-hsa04210-26,545,45,rectangle,15,5,0.62,AKT3,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:10000>10000</a> (AKT3)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:207>207</a> (AKT1)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:208>208</a> (AKT2),545,45,10000;207;208
+N-hsa04210-27,330,234,rectangle,15,5,0.62,MAP3K14,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:9020>9020</a> (MAP3K14),330,234,9020
+N-hsa04210-28,742,100,rectangle,15,5,0.62,CHUK,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1147>1147</a> (CHUK)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:3551>3551</a> (IKBKB)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8517>8517</a> (IKBKG),742,100,1147;3551;8517
+N-hsa04210-29,525,672,rectangle,15,5,0.62,CFLAR,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8837>8837</a> (CFLAR),525,672,8837
+N-hsa04210-30,287,45,rectangle,15,5,0.62,PIK3R5,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:23533>23533</a> (PIK3R5)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5290>5290</a> (PIK3CA)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5291>5291</a> (PIK3CB)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5293>5293</a> (PIK3CD)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5294>5294</a> (PIK3CG)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5295>5295</a> (PIK3R1)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5296>5296</a> (PIK3R2)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8503>8503</a> (PIK3R3),287,45,23533;5290;5291;5293;5294;5295;5296;8503
+N-hsa04210-31,287,558,rectangle,15,5,0.62,TRAF2,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:7186>7186</a> (TRAF2),287,558,7186
+N-hsa04210-36,287,799,rectangle,15,5,0.62,FADD,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8772>8772</a> (FADD),287,799,8772
+N-hsa04210-37,201,0,rectangle,15,5,0.62,CSF2RB,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1439>1439</a> (CSF2RB)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:3563>3563</a> (IL3RA),201,0,1439;3563
+N-hsa04210-38,201,45,rectangle,15,5,0.62,NTRK1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:4914>4914</a> (NTRK1),201,45,4914
+N-hsa04210-39,201,615,rectangle,15,5,0.62,TNFRSF1A,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:7132>7132</a> (TNFRSF1A),201,615,7132
+N-hsa04210-40,201,817,rectangle,15,5,0.62,TNFRSF10D,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8793>8793</a> (TNFRSF10D)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8794>8794</a> (TNFRSF10C)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8795>8795</a> (TNFRSF10B)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8797>8797</a> (TNFRSF10A),201,817,8793;8794;8795;8797
+N-hsa04210-41,201,784,rectangle,15,5,0.62,FAS,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:355>355</a> (FAS),201,784,355
+N-hsa04210-42,112,0,rectangle,15,5,0.62,IL3,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:3562>3562</a> (IL3),112,0,3562
+N-hsa04210-43,112,45,rectangle,15,5,0.62,NGF,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:4803>4803</a> (NGF),112,45,4803
+N-hsa04210-44,112,615,rectangle,15,5,0.62,TNF,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:7124>7124</a> (TNF),112,615,7124
+N-hsa04210-46,112,817,rectangle,15,5,0.62,TNFSF10,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8743>8743</a> (),112,817,8743
+N-hsa04210-47,112,784,rectangle,15,5,0.62,FASLG,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:356>356</a> (FASLG),112,784,356
+N-hsa04210-53,982,472,rectangle,15,5,0.62,DIABLO,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:56616>56616</a> (DIABLO),982,472,56616
+N-hsa04210-54,982,451,rectangle,15,5,0.62,SEPT4,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5414>5414</a> (SEPT4),982,451,5414
+N-hsa04210-55,982,430,rectangle,15,5,0.62,HTRA2,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:27429>27429</a> (HTRA2),982,430,27429
+N-hsa04210-67,893,797,rectangle,15,5,0.62,CASP12,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:100506742>100506742</a> (CASP12),893,797,100506742
+N-hsa04210-76,665,360,rectangle,15,5,0.62,BCL2L1*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:598>598</a> (BCL2L1),665,360,598
+N-hsa04210-77,287,679,rectangle,15,5,0.62,DAXX,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1616>1616</a> (DAXX),287,679,1616
+N-hsa04210-78,400,396,rectangle,15,5,0.62,MAP3K5,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:4217>4217</a> (MAP3K5),400,396,4217
+N-hsa04210-79,400,234,rectangle,15,5,0.62,MAPK8,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5599>5599</a> (MAPK8)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5601>5601</a> (MAPK9)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5602>5602</a> (MAPK10),400,234,5599;5601;5602
+N-hsa04210-80,375,556,rectangle,15,5,0.62,DAB2IP,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:153090>153090</a> (DAB2IP),375,556,153090
+N-hsa04210-81,1277,171,rectangle,15,5,0.62,JUN,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:3725>3725</a> (JUN),1277,171,3725
+N-hsa04210-82,1277,147,rectangle,15,5,0.62,FOS,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:2353>2353</a> (FOS),1277,147,2353
+N-hsa04210-87,834,248,rectangle,15,5,0.62,BBC3*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:27113>27113</a> (BBC3),834,248,27113
+N-hsa04210-88,775,248,rectangle,15,5,0.62,PMAIP1*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5366>5366</a> (PMAIP1),775,248,5366
+N-hsa04210-89,514,411,rectangle,15,5,0.62,CTSC,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1075>1075</a> (CTSC)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1508>1508</a> (CTSB)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1509>1509</a> (CTSD)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1512>1512</a> (CTSH)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1513>1513</a> (CTSK)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1514>1514</a> (CTSL)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1515>1515</a> (CTSV)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1519>1519</a> (CTSO)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1520>1520</a> (CTSS)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1521>1521</a> (CTSW)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1522>1522</a> (CTSZ)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8722>8722</a> (CTSF),514,411,1075;1508;1509;1512;1513;1514;1515;1519;1520;1521;1522;8722
+N-hsa04210-90,756,798,circle,15,5,0.62,Calcium cation,cyan,<a target=_blank href=http://www.kegg.jp/dbget-bin/www_bget?C00076>Calcium cation</a>,756,798,NA
+N-hsa04210-91,581,432,rectangle,15,5,0.62,DDIT3,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1649>1649</a> (DDIT3),581,432,1649
+N-hsa04210-92,658,760,rectangle,15,5,0.62,EIF2AK3,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:9451>9451</a> (EIF2AK3),658,760,9451
+N-hsa04210-93,581,652,rectangle,15,5,0.62,EIF2S1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1965>1965</a> (EIF2S1),581,652,1965
+N-hsa04210-94,581,595,rectangle,15,5,0.62,ATF4,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:468>468</a> (ATF4),581,595,468
+N-hsa04210-97,459,45,rectangle,15,5,0.62,PDPK1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5170>5170</a> (PDPK1),459,45,5170
+N-hsa04210-98,375,45,circle,15,5,0.62,Phosphatidylinositol-3,4,5-trisphosphate,cyan,<a target=_blank href=http://www.kegg.jp/dbget-bin/www_bget?C05981>Phosphatidylinositol-3,4,5-trisphosphate</a>,375,45,NA
+N-hsa04210-103,987,718,rectangle,15,5,0.62,GZMB,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:3002>3002</a> (GZMB),987,718,3002
+N-hsa04210-109,581,342,rectangle,15,5,0.62,BCL2L11*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:10018>10018</a> (BCL2L11),581,342,10018
+N-hsa04210-110,522,373,rectangle,15,5,0.62,MCL1*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:4170>4170</a> (MCL1),522,373,4170
+N-hsa04210-115,287,0,rectangle,15,5,0.62,HRAS,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:3265>3265</a> (HRAS)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:3845>3845</a> (KRAS)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:4893>4893</a> (NRAS),287,0,3265;3845;4893
+N-hsa04210-116,373,0,rectangle,15,5,0.62,RAF1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5894>5894</a> (RAF1),373,0,5894
+N-hsa04210-117,459,0,rectangle,15,5,0.62,MAP2K1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5604>5604</a> (MAP2K1)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5605>5605</a> (MAP2K2),459,0,5604;5605
+N-hsa04210-118,545,0,rectangle,15,5,0.62,MAPK1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5594>5594</a> (MAPK1)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5595>5595</a> (MAPK3),545,0,5594;5595
+N-hsa04210-34 35,287,623,rectangle,15,5,0.62,FADD TRADD,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8772>8772</a> (FADD)<br><br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8717>8717</a> (TRADD),287,623,8772;/;8717
+N-hsa04210-65 66,563,797,rectangle,15,5,0.62,TRAF2 ERN1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:7186>7186</a> (TRAF2)<br><br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:2081>2081</a> (ERN1),563,797,7186;/;2081
+N-hsa04210-100 101,1005,545,rectangle,15,5,0.62,CASP2 PIDD1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:835>835</a> (CASP2)<br><br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:55367>55367</a> (PIDD1),1005,545,835;/;55367
+N-hsa04210-20 21,965,333,rectangle,15,5,0.62,APAF1 CYCS,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:317>317</a> (APAF1)<br><br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:54205>54205</a> (),965,333,317;/;54205
+N-hsa04210-22,783,544,rectangle,15,5,0.62,BID,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:637>637</a> (),783,544,637
+N-hsa04210-24,784,618,rectangle,15,5,0.62,CASP10,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:843>843</a> (CASP10),784,618,843
+N-hsa04210-31 32 33,398.99697520946,607.44019092225,rectangle,15,5,0.62,TRAF2 RIPK1 TRADD,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:7186>7186</a> (TRAF2)<br><br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8737>8737</a> (RIPK1)<br><br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8717>8717</a> (TRADD),398.99697520946,607.44019092225,7186;/;8737;/;8717
+N-hsa04210-57,1431,414,rectangle,15,5,0.62,BAK1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:578>578</a> (BAK1),1431,414,578
+N-hsa04210-56,1483,414,rectangle,15,5,0.62,BAX,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:581>581</a> (BAX),1483,414,581
+N-hsa04210-102,1536,414,rectangle,15,5,0.62,PIDD1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:55367>55367</a> (PIDD1),1536,414,55367
+N-hsa04210-61,1483,389,rectangle,15,5,0.62,APAF1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:317>317</a> (APAF1),1483,389,317
+N-hsa04210-62,1536,389,rectangle,15,5,0.62,TP53AIP1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:63970>63970</a> (TP53AIP1),1536,389,63970
+N-hsa04210-63,1431,364,rectangle,15,5,0.62,FAS*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:355>355</a> (FAS),1431,364,355
+N-hsa04210-64,1483,364,rectangle,15,5,0.62,TNFRSF10D*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8793>8793</a> (TNFRSF10D)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8794>8794</a> (TNFRSF10C)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8795>8795</a> (TNFRSF10B)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8797>8797</a> (TNFRSF10A),1483,364,8793;8794;8795;8797
+N-hsa04210-60,1431,339,rectangle,15,5,0.62,BBC3,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:27113>27113</a> (BBC3),1431,339,27113
+N-hsa04210-59,1483,339,rectangle,15,5,0.62,PMAIP1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5366>5366</a> (PMAIP1),1483,339,5366
+N-hsa04210-74,723,456,rectangle,15,5,0.62,BAX*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:581>581</a> (BAX),723,456,581
+N-hsa04210-75,842,456,rectangle,15,5,0.62,BAK1*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:578>578</a> (BAK1),842,456,578
+N-hsa04210-52,1164,686,rectangle,15,5,0.62,PARP2,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:10038>10038</a> (PARP2)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:10039>10039</a> (PARP3)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:142>142</a> (PARP1)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:143>143</a> (PARP4),1164,686,10038;10039;142;143
+N-hsa04210-50,1164,753,rectangle,15,5,0.62,SPTA1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:6708>6708</a> (SPTA1)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:6709>6709</a> (SPTAN1),1164,753,6708;6709
+N-hsa04210-4,1164,656,rectangle,15,5,0.62,DFFA,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1676>1676</a> (DFFA),1164,656,1676
+N-hsa04210-70,1483,92,rectangle,15,5,0.62,CFLAR*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8837>8837</a> (CFLAR),1483,92,8837
+N-hsa04210-10,1536,92,rectangle,15,5,0.62,BIRC2,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:329>329</a> (BIRC2)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:330>330</a> (BIRC3)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:331>331</a> (XIAP)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:332>332</a> (BIRC5),1536,92,329;330;331;332
+N-hsa04210-71,1431,67,rectangle,15,5,0.62,GADD45G,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:10912>10912</a> (GADD45G)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:1647>1647</a> (GADD45A)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:4616>4616</a> (GADD45B),1431,67,10912;1647;4616
+N-hsa04210-73,1483,67,rectangle,15,5,0.62,TRAF1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:7185>7185</a> (TRAF1)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:7186>7186</a> (TRAF2),1483,67,7185;7186
+N-hsa04210-3,1536,67,rectangle,15,5,0.62,BCL2L1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:598>598</a> (BCL2L1),1536,67,598
+N-hsa04210-72,1431,42,rectangle,15,5,0.62,BCL2A1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:597>597</a> (BCL2A1),1431,42,597
+N-hsa04210-83,1431,172,rectangle,15,5,0.62,TP53*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:7157>7157</a> (TP53),1431,172,7157
+N-hsa04210-84,1483,172,rectangle,15,5,0.62,FAS**,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:355>355</a> (FAS),1483,172,355
+N-hsa04210-85,1536,172,rectangle,15,5,0.62,FASLG*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:356>356</a> (FASLG),1536,172,356
+N-hsa04210-86,1431,147,rectangle,15,5,0.62,BCL2L11,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:10018>10018</a> (BCL2L11),1431,147,10018
+N-hsa04210-114,1483,147,rectangle,15,5,0.62,HRK,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:8739>8739</a> (HRK),1483,147,8739
+N-hsa04210-107,1164,805,rectangle,15,5,0.62,MCL1,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:4170>4170</a> (MCL1),1164,805,4170
+N-hsa04210-119,1431,0,rectangle,15,5,0.62,BCL2*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:596>596</a> (BCL2),1431,0,596
+N-hsa04210-58,1431,389,rectangle,15,5,0.62,BID*,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:637>637</a> (),1431,389,637
+N-hsa04210-105,1164,779,rectangle,15,5,0.62,ACTB,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:60>60</a> (ACTB)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:71>71</a> (ACTG1),1164,779,60;71
+N-hsa04210-69,1431,92,rectangle,15,5,0.62,PTPN13,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:5783>5783</a> (),1431,92,5783
+N-hsa04210-51,1164,720,rectangle,15,5,0.62,LMNA,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:4000>4000</a> (LMNA)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:4001>4001</a> (LMNB1)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:84823>84823</a> (LMNB2),1164,720,4000;4001;84823
+N-hsa04210-99,581,282,rectangle,15,5,0.62,BID**,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:637>637</a> (),581,282,637
+N-hsa04210-106,1164,831,rectangle,15,5,0.62,TUBA1B,cyan,<a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:10376>10376</a> (TUBA1B)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:112714>112714</a> (TUBA3E)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:113457>113457</a> (TUBA3D)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:51807>51807</a> (TUBA8)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:7277>7277</a> (TUBA4A)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:7278>7278</a> (TUBA3C)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:7846>7846</a> (TUBA1A)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:79861>79861</a> (TUBAL3)<br><a target=_blank href=http://www.genome.jp/dbget-bin/www_bget?hsa:84790>84790</a> (TUBA1C),1164,831,10376;112714;113457;51807;7277;7278;7846;79861;84790
+N-hsa04210-57_func,1628.13564255637,414,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1628.13564255637,414,
+N-hsa04210-56_func,1680.13287077763,414,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1680.13287077763,414,
+N-hsa04210-102_func,1733.13287077763,414,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1733.13287077763,414,
+N-hsa04210-61_func,1680.13287077763,389,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1680.13287077763,389,
+N-hsa04210-62_func,1733.13287077763,389,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1733.13287077763,389,
+N-hsa04210-63_func,1628.13287077763,364,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1628.13287077763,364,
+N-hsa04210-64_func,1680.13287077763,364,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1680.13287077763,364,
+N-hsa04210-60_func,1628.13287077763,339,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1628.13287077763,339,
+N-hsa04210-59_func,1680.13287077763,339,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1680.13287077763,339,
+N-hsa04210-74_func,920.167919891293,456,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,920.167919891293,456,
+N-hsa04210-75_func,1039.34492630723,458.335940387456,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1039.34492630723,458.335940387456,
+N-hsa04210-52_func,1361.13287077763,686,rectangle,15,5,0.62,DNA damage,cyan,DNA damage,1361.13287077763,686,
+N-hsa04210-50_func,1361.13287077763,753,rectangle,15,5,0.62,Cell shape,cyan,Cell shape,1361.13287077763,753,
+N-hsa04210-4_func,1361.13287077763,656,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1361.13287077763,656,
+N-hsa04210-70_func,1680.13287077763,92,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1680.13287077763,92,
+N-hsa04210-10_func,1733.13287077763,92,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1733.13287077763,92,
+N-hsa04210-71_func,1628.13564255637,67,rectangle,15,5,0.62,Apoptosis
+Growth arrest,cyan,Apoptosis<br>Growth arrest,1628.13564255637,67,
+N-hsa04210-73_func,1680.13287077763,67,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1680.13287077763,67,
+N-hsa04210-3_func,1733.13287077763,67,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1733.13287077763,67,
+N-hsa04210-72_func,1628.13287077763,42,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1628.13287077763,42,
+N-hsa04210-83_func,1628.13564255637,172,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1628.13564255637,172,
+N-hsa04210-84_func,1680.13287077763,172,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1680.13287077763,172,
+N-hsa04210-85_func,1733.13287077763,172,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1733.13287077763,172,
+N-hsa04210-86_func,1628.13287077763,147,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1628.13287077763,147,
+N-hsa04210-114_func,1680.13287077763,147,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1680.13287077763,147,
+N-hsa04210-107_func,1361.13287077763,805,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1361.13287077763,805,
+N-hsa04210-119_func,1628.13287077763,0,rectangle,15,5,0.62,Apoptosis,cyan,Apoptosis,1628.13287077763,0,

@@ -1,0 +1,77 @@
+from,to,arrow.size,relation
+N-hsa04150-2,N-hsa04150-28,0.2,activation
+N-hsa04150-2,N-hsa04150-3,0.2,activation
+N-hsa04150-3,N-hsa04150-4,0.2,activation
+N-hsa04150-4,N-hsa04150-21,0.2,activation
+N-hsa04150-5,N-hsa04150-9,0.2,activation
+N-hsa04150-7,N-hsa04150-25,0.2,activation
+N-hsa04150-7,N-hsa04150-13 22,0.2,inhibition
+N-hsa04150-8,N-hsa04150-5,0.2,activation
+N-hsa04150-9,N-hsa04150-7,0.2,activation
+N-hsa04150-10,N-hsa04150-21,0.2,inhibition
+N-hsa04150-11,N-hsa04150-12,0.2,activation
+N-hsa04150-12,N-hsa04150-50,0.2,activation
+N-hsa04150-12,N-hsa04150-61,0.2,inhibition
+N-hsa04150-12,N-hsa04150-13 22,0.2,inhibition
+N-hsa04150-15,N-hsa04150-31,0.2,inhibition
+N-hsa04150-17,N-hsa04150-56,0.2,activation
+N-hsa04150-17,N-hsa04150-33,0.2,activation
+N-hsa04150-21,N-hsa04150-11,0.2,activation
+N-hsa04150-25,N-hsa04150-13 22,0.2,inhibition
+N-hsa04150-26,N-hsa04150-13 22,0.2,activation
+N-hsa04150-27,N-hsa04150-26,0.2,activation
+N-hsa04150-28,N-hsa04150-40,0.2,activation
+N-hsa04150-29,N-hsa04150-13 22,0.2,activation
+N-hsa04150-34,N-hsa04150-36,0.2,activation
+N-hsa04150-35,N-hsa04150-13 22,0.2,inhibition
+N-hsa04150-36,N-hsa04150-35,0.2,activation
+N-hsa04150-37,N-hsa04150-3,0.2,inhibition
+N-hsa04150-40,N-hsa04150-8,0.2,activation
+N-hsa04150-41,N-hsa04150-23 24,0.2,inhibition
+N-hsa04150-42,N-hsa04150-23 24,0.2,inhibition
+N-hsa04150-43,N-hsa04150-23 24,0.2,inhibition
+N-hsa04150-44,N-hsa04150-41,0.2,inhibition
+N-hsa04150-45,N-hsa04150-44,0.2,inhibition
+N-hsa04150-46,N-hsa04150-45,0.2,inhibition
+N-hsa04150-47,N-hsa04150-49,0.2,activation
+N-hsa04150-48,N-hsa04150-49,0.2,activation
+N-hsa04150-49,N-hsa04150-23 24,0.2,activation
+N-hsa04150-51,N-hsa04150-2,0.2,activation
+N-hsa04150-52,N-hsa04150-2,0.2,inhibition
+N-hsa04150-58,N-hsa04150-57 59,0.2,inhibition
+N-hsa04150-58,N-hsa04150-57 63 62,0.2,inhibition
+N-hsa04150-58,N-hsa04150-57 60,0.2,inhibition
+N-hsa04150-61,N-hsa04150-57 59,0.2,inhibition
+N-hsa04150-61,N-hsa04150-57 63 62,0.2,inhibition
+N-hsa04150-61,N-hsa04150-57 60,0.2,inhibition
+N-hsa04150-66,N-hsa04150-64 67,0.2,inhibition
+N-hsa04150-66,N-hsa04150-64 71 70,0.2,inhibition
+N-hsa04150-66,N-hsa04150-64 68,0.2,inhibition
+N-hsa04150-74,N-hsa04150-13 22,0.2,activation
+N-hsa04150-75,N-hsa04150-76 78,0.2,activation
+N-hsa04150-79,N-hsa04150-74,0.2,inhibition
+N-hsa04150-13 22,N-hsa04150-14,0.2,inhibition
+N-hsa04150-54 55,N-hsa04150-23 24,0.2,activation
+N-hsa04150-76 78,N-hsa04150-79,0.2,activation
+N-hsa04150-83 85,N-hsa04150-26,0.2,activation
+N-hsa04150-83 84,N-hsa04150-26,0.2,activation
+N-hsa04150-50,N-hsa04150-61,0.2,activation
+N-hsa04150-14,N-hsa04150-61,0.2,activation
+N-hsa04150-23 24,N-hsa04150-57 60,0.2,activation
+N-hsa04150-23 24,N-hsa04150-57 63 62,0.2,activation
+N-hsa04150-23 24,N-hsa04150-57 59,0.2,activation
+N-hsa04150-57 60,N-hsa04150-15,0.2,activation
+N-hsa04150-57 63 62,N-hsa04150-15,0.2,activation
+N-hsa04150-57 59,N-hsa04150-15,0.2,activation
+N-hsa04150-57 60,N-hsa04150-17,0.2,activation
+N-hsa04150-57 63 62,N-hsa04150-17,0.2,activation
+N-hsa04150-57 59,N-hsa04150-17,0.2,activation
+N-hsa04150-64 67,N-hsa04150-12,0.2,activation
+N-hsa04150-64 71 70,N-hsa04150-12,0.2,activation
+N-hsa04150-64 68,N-hsa04150-12,0.2,activation
+N-hsa04150-50,N-hsa04150-64 67,0.2,activation
+N-hsa04150-50,N-hsa04150-64 71 70,0.2,activation
+N-hsa04150-50,N-hsa04150-64 68,0.2,activation
+N-hsa04150-17,N-hsa04150-66,0.2,inhibition
+N-hsa04150-31,N-hsa04150-31_func,0.2,activation
+N-hsa04150-56,N-hsa04150-56_func,0.2,activation
